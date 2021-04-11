@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "shreyaan@shreyaan.tech"
 google_analytics_id = ""
 home = "Home"
-logo = "https://yt3.ggpht.com/a/AATXAJydUgMmlZuOsWyMUsdhaQ5HaMkfFiUVGkOBnQ=s900-c-k-c0xffffffff-no-rj-mo"
+logo = ""
 phone = ""
 theme_color = "#000000"
 [params.contact]
