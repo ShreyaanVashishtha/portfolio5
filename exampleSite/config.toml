@@ -62,6 +62,12 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "https://cdn.dribbble.com/users/563824/screenshots/3633228/untitled-5.gif"
 [[params.social]]
+URL = "mailto:shreyaan@shreyaan.tech"
+icon = "ti-email"
+[[params.social]]
+URL = "https://www.youtube.com/c/ShreyaanVashishtha"
+icon = "ti-youtube"
+[[params.social]]
 URL = "https://instagram.com/shreyaanvashishtha"
 icon = "ti-instagram"
 [[params.social]]
