@@ -20,16 +20,16 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+address = ""
+author = "Shreyaan Vashishtha"
+copyright = "Copyright &copy; 2021 Shreyaan Vashishtha. All Rights Reserved"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "shreyaan@shreyaan.tech"
 google_analytics_id = ""
 home = "Home"
-logo = ""
-phone = "+880 2544 658 256"
-theme_color = "#41228e"
+logo = "https://yt3.ggpht.com/a/AATXAJydUgMmlZuOsWyMUsdhaQ5HaMkfFiUVGkOBnQ=s900-c-k-c0xffffffff-no-rj-mo"
+phone = ""
+theme_color = "#000000"
 [params.contact]
 enable = true
 form_action = "#"
@@ -60,7 +60,7 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif"
+preloader = "https://cdn.dribbble.com/users/563824/screenshots/3633228/untitled-5.gif"
 [[params.social]]
 URL = "#"
 icon = "ti-facebook"
