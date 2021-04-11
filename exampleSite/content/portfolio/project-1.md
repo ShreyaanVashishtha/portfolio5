@@ -1,9 +1,10 @@
 ---
 title: "Shreyaan.tech"
+date: 2020-03-12
 image: "images/portfolio/Screenshot 2021-04-11 at 1.18.01 PM.png"
 client: "Shreyaan Vashishtha"
 project_url : "https://shreyaan.tech"
-categories: ["design","development","blog"]
+categories: ["Design","Development","Blog","Personal"]
 description: "My Blog"
 draft: false
 ---
