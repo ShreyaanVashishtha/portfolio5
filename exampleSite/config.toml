@@ -1,4 +1,4 @@
-baseURL = "https://svportfolio.netlify.app"
+baseURL = "https://work.shreyaan.tech"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
