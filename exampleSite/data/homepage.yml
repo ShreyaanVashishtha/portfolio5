@@ -3,24 +3,27 @@ banner:
   title: Hi! I’m <br> Shreyaan Vashishtha <br>
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: "My name is Shreyaan Vashishtha. I'm 13 years old, and my passion is Technology.
+    \ I try to make videos that are to-the-point and as content-packed as possible,
+    so if that sounds like your cup of tea, a sub would be massively appreciated!
+    \U0001F64F\n\nShreyaan Vashishtha: Quality Tech Videos | Consumer Electronics
+    | Tech Head\n"
   button:
     enable: true
-    label: know more
-    URL: about
+    label: YouTube Channel
+    URL: https://www.shreyaan.co/yt
 skill:
   enable: true
   title: Skills
   item:
+  - title: Video Editing
+    progress: 95%
+    color: "#bdecf6"
   - title: Web Design
     progress: 90%
     color: "#fdb157"
   - title: Logo Design
-    progress: 60%
+    progress: 80%
     color: "#9473e6"
   - title: After Effects
     progress: 80%
@@ -29,7 +32,7 @@ skill:
     progress: 70%
     color: "#ffbcaa"
 experience:
-  enable: true
+  enable: false
   title: Experience
   item:
   - logo: images/experience/icon-1.png
@@ -45,7 +48,7 @@ experience:
     company: THEMEFISHER
     duration: Sep 2014 - Present
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Marters in UX Design
@@ -61,7 +64,7 @@ education:
     year: "1998"
     academy: Cardiff School
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: UI Design
@@ -84,7 +87,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -112,7 +115,7 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
 clients_logo_slider:
-  enable: true
+  enable: false
   item:
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com
@@ -135,5 +138,5 @@ clients_logo_slider:
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 blog:
-  enable: true
+  enable: false
   title: Blogs
