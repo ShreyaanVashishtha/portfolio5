@@ -1,13 +1,11 @@
 ---
 title: "About"
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+description: "About Shreyaan Vashishtha"
+author_image : "https://img1.wsimg.com/isteam/ip/8722a42f-0650-43f9-830e-9185b9a417b8/PicsArt_09-24-07.57.17.jpg"
+author_signature : "https://yt3.ggpht.com/a/AATXAJydUgMmlZuOsWyMUsdhaQ5HaMkfFiUVGkOBnQ=s900-c-k-c0xffffffff-no-rj-mo"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My name is Shreyaan Vashishtha. I’m 13 years old, and my passion is Technology. I try to make videos that are to-the-point and as content-packed as possible, so if that sounds like your cup of tea, a sub would be massively appreciated! 🙏
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Shreyaan Vashishtha: Quality Tech Videos | Consumer Electronics | Tech Head
