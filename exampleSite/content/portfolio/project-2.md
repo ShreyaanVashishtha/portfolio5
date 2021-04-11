@@ -1,6 +1,6 @@
 ---
 title: "KilledByGoogle.Info"
-date: N/A
+date: 2021-03-17
 image: "images/portfolio/Screenshot 2021-03-17 at 11.18.29 AM.png"
 client: "Shreyaan Vashishtha"
 project_url : "https://killedbygoogle.info"
