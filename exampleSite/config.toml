@@ -78,5 +78,8 @@ icon = "ti-github"
 URL = "https://instagram.com/shreyaanvashishtha"
 icon = "ti-instagram"
 [[params.social]]
+URL = "https://www.github.com/shreyaanvashishtha"
+icon = "github"
+[[params.social]]
 URL = "https://www.twiter.com/shreyaanoneplus"
 icon = "ti-twitter-alt"
