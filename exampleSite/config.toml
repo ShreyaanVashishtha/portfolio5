@@ -24,7 +24,7 @@ URL = "about"
 name = "About"
 weight = 1
 [params]
-address = ""
+address = "shreyaan.tech"
 author = "Shreyaan Vashishtha"
 copyright = "Copyright &copy; 2021 Shreyaan Vashishtha. All Rights Reserved"
 description = "work.shreyaan.tech"
@@ -77,9 +77,6 @@ icon = "ti-github"
 [[params.social]]
 URL = "https://instagram.com/shreyaanvashishtha"
 icon = "ti-instagram"
-[[params.social]]
-URL = "https://www.github.com/shreyaanvashishtha"
-icon = "github"
 [[params.social]]
 URL = "https://www.twiter.com/shreyaanoneplus"
 icon = "ti-twitter-alt"
