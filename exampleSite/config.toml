@@ -35,7 +35,7 @@ logo = "images/Untitled-1.png"
 phone = ""
 theme_color = "#1b59e0"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [params.cookies]
 enable = true
