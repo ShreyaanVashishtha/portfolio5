@@ -27,13 +27,13 @@ weight = 1
 address = ""
 author = "Shreyaan Vashishtha"
 copyright = "Copyright &copy; 2021 Shreyaan Vashishtha. All Rights Reserved"
-description = "This is meta description"
+description = "work.shreyaan.tech"
 email = "shreyaan@shreyaan.tech"
 google_analytics_id = ""
 home = "Home"
 logo = "images/Untitled-1.png"
 phone = ""
-theme_color = "#000000"
+theme_color = "#fa2020"
 [params.contact]
 enable = true
 form_action = "#"
