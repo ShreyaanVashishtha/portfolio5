@@ -6,7 +6,7 @@ client: "Shreyaan Vashishtha"
 project_url : "https://doter.cc"
 categories: ["Illustraion","Development","Design"]
 description: "A Free and Easy to use URL Shortner! Made By Shreyaan Vashishtha"
-draft: true
+draft: flase
 ---
 
 #### Project Details
