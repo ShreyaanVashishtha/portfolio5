@@ -1,6 +1,6 @@
 ---
 title: "Doter.cc"
-date: 2021-04-12
+date: 2021-05-07
 image: "images/portfolio/Screenshot 2021-04-11 at 1.48.06 PM.png"
 client: "Shreyaan Vashishtha"
 project_url : "https://doter.cc"
