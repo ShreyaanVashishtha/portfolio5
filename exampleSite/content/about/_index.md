@@ -8,4 +8,7 @@ draft: false
 
 My name is Shreyaan Vashishtha. I’m 13 years old, and my passion is Technology. I try to make videos that are to-the-point and as content-packed as possible, so if that sounds like your cup of tea, a sub would be massively appreciated! 🙏
 
+YouTube Channel: www.youtube.com/shreyaanvashishtha
+Blog: www.shreyaan.tech
+
 Shreyaan Vashishtha: Quality Tech Videos | Consumer Electronics | Tech Head
