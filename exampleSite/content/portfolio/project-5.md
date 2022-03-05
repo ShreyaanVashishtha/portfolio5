@@ -5,7 +5,7 @@ image: "images/portfolio/Screenshot 2021-04-11 at 1.48.06 PM.png"
 client: "Shreyaan Vashishtha"
 project_url : "https://doter.cc"
 categories: ["Illustraion","Development","Design"]
-description: "A Free and Easy to use URL Shortner! Made By Shreyaan Vashishtha"
+description: "A Free and Easy to use URL Shortner! Made By Shreyaan Vashishtha ⚠️ RETIRED ⚠️"
 draft: flase
 ---
 
